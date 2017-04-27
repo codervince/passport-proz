@@ -1,6 +1,6 @@
 {
     "name": "passport-proz",
-    "version": "0.5.0",
+    "version": "0.5.2",
     "description": "Proz (OAuth2) authentication strategy for Passport.",
     "private": true,
     "keywords": [
